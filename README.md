@@ -1,4 +1,4 @@
-# MBF
+# mbf
 
 $ pkg update && pkg upgrade
 
