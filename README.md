@@ -16,4 +16,4 @@ $ git clone https://github.com/Dimzz404/MBF
 
 $ cd MBF
 
-$ python2 dms_enc.py
+$ python2 runn_enc.py
