@@ -14,6 +14,6 @@ $ pip2 install bs4
 
 $ git clone https://github.com/Dimzz404/mbf
 
-$ cd MBF
+$ cd mbf
 
 $ python2 runn_enc.py
