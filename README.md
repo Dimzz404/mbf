@@ -12,7 +12,7 @@ $ pip2 install mechanize
 
 $ pip2 install bs4
 
-$ git clone https://github.com/Dimzz404/MBF
+$ git clone https://github.com/Dimzz404/mbf
 
 $ cd MBF
 
